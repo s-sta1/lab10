@@ -48,7 +48,7 @@ def run_analysis(data):
         val = data[i]
         category = classify_voltage(val)
 
-        results[category]["sum"] = val
+        results[category]["sum"] += val
         results[category]["count"] += 1
 
         results["All"]["sum"] += val
