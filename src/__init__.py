@@ -44,7 +44,6 @@ Highlights
 
 Authors
 ------
-Łukasz Kułacz - initial implementation, testing, documentation
+Łukasz Kułacz - initial implementation, testing, documentation.
 Szymon Staniszewski
-
 """
