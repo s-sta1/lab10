@@ -42,6 +42,7 @@ Highlights
 - Clean separation between data schema and business rules.
 - Ready for automatic API documentation with ``pdoc``.
 
+
 Authors
 ------
 - Łukasz Kułacz - initial implementation, testing, documentation.
